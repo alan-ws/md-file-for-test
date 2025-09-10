@@ -1,4 +1,4 @@
-# Routing Middleware the best on Vercel
+# Routing Middleware
 
 Routing Middleware is available on [all plans](/docs/plans)
 
