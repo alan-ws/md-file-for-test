@@ -87,3 +87,5 @@ Learn more about Routing Middleware by exploring the following resources:
 *   [Routing Middleware API Reference](/docs/routing-middleware/api)
 *   [Fluid compute](/docs/fluid-compute)
 *   [Runtimes](/docs/functions/runtimes)
+
+[next page](/next.md)
